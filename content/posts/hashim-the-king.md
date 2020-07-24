@@ -7,4 +7,4 @@ draft: true
 authors:
   - scott-byrne
 ---
-## Hashim is the servantking of his household
+## Hashim is the servant-king of his household
